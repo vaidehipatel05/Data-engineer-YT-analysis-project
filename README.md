@@ -1,6 +1,4 @@
 # Data-engineer-YT-analysis-project
-Implemented Data Engineering YouTube Analysis Project by Darshil Parmar to gain hands-on-experience with AWS 
-https://youtu.be/yZKJFKu49Dk?si=Ws3SEJ0ABjBJzQ1N
 
 Concepts learned:
 AWS
